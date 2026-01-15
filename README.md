@@ -21,3 +21,11 @@ adding more information here
 | Firstname | Lastname | Email |
 | --------- | -------- | ------|
 | Peter| De Tender | petender@microsoft.com |
+
+```mermaid
+graph TD;
+A-->B;
+A--C>;
+B-->D;
+C-->D;
+```
