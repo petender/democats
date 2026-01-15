@@ -17,3 +17,7 @@ adding more information here
 
 1. next purpose
 1. next purpose 
+
+| Firstname | Lastname | Email |
+| --------- | -------- | ------|
+| Peter| De Tender | petender@microsoft.com |
